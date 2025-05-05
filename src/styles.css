@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list {
+  font-weight: bold;
+  font-size: larger;
+  text-align: left;
+}
+.listContent {
+  text-align: left;
+}
+.delete {
+  border: 2px solid white;
+  background-color: rgb(24, 21, 21);
+  color: white;
+  height: 30px;
+  width: 70px;
+  border-radius: 5px;
+}
+.addBtn{
+  border: 2px solid #fff;
+  background-color: #929090;
+  color: black;
+  height: 30px;
+  width: 70px;
+  /* font-size: larger; */
+  font-weight: bold;
+  border-radius: 5px;
+}

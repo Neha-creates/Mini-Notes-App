@@ -1,0 +1,11 @@
+{  "notes":{
+            "note1":{
+                "title": "Prepare",
+                "content": "Prepare for an exam, you have in the next week."
+            },
+            "note2":{
+                "title": "Eat",
+                "content": "Eat well in order to avoid any sickness or weekness."
+            } 
+        }
+}
